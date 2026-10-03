@@ -537,8 +537,8 @@ y son aplicables a múltiples niveles del toolkit:
 
 | Archivo | Propósito |
 |---------|-----------|
-| [`templates/INVENTARIO.template.md`](./INVENTARIO_TESTS_EXISTENTES.md) | Plantilla para documentar qué tests ya existen: archivos, suites, casos, comandos, resultados |
-| [`templates/MATRIZ_TRAZABILIDAD.template.md`](./PLAN_IMPLEMENTACION_TESTS.md) | Plantilla para priorizar gaps pendientes: fases, esfuerzo estimado, orden de ejecución |
+| [`templates/INVENTARIO.template.md`](./templates/INVENTARIO.template.md) | Plantilla para documentar qué tests ya existen: archivos, suites, casos, comandos, resultados |
+| [`templates/MATRIZ_TRAZABILIDAD.template.md`](./templates/MATRIZ_TRAZABILIDAD.template.md) | Plantilla para priorizar gaps pendientes: fases, esfuerzo estimado, orden de ejecución |
 
 > **Uso:** copia estas plantillas a tu proyecto, reemplaza el contenido
 > de ejemplo con tu inventario real, y úsalas como living docs que
